@@ -1,22 +1,3 @@
+# FORBIORES
 
-This is my repo for all the analyses undertaken as part of the biores project!
-
-
-
-This is my repo for all the analyses undertaken as part of the biores project!
-
-
-
-This is my repo for all the analyses undertaken as part of the biores project!
-
-
-
-This is my repo for all the analyses undertaken as part of the biores project!
-
-
-
-This is my repo for all the analyses undertaken as part of the biores project!
-
-
-This is my repo for all the analyses undertaken as part of the biores project!
-
+#### This repository contains the codes developed as part of the FORBIORES exploratory project.
